@@ -8,16 +8,3 @@ Merge: Combining changes from one branch into another, usually bringing new feat
 
 Pull Request (PR): A request to merge changes from your branch into another branch. Other people can review your changes before approving.
 
-Issue: A way to track tasks, bugs, or feature requests in a repository. It helps organize work and collaborate with others.
-
-Project: A board or space to organize issues, pull requests, and tasks. You can think of it like a digital to-do board for a repository.
-
-Fork: A copy of someone else’s repository that you can modify without affecting the original.
-
-Clone: A local copy of a repository on your computer so you can work on it offline.
-
-Commit History: A record of all the commits made in a repository, showing who changed what and when.
-
-Star: A way to mark repositories you like or want to follow.
-
-Gist: A small snippet of code or text you can share with others.
