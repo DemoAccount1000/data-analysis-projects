@@ -1,1 +1,11 @@
-U6.cTt5G2,hC
+Repository (repo): A storage space for your project files, code, and history. Think of it like a project folder.
+
+Commit: A saved change in your repository. Each commit records what was changed and lets you go back to earlier versions if needed.
+
+Branch: A separate version of your repository where you can make changes without affecting the main code. Usually the main branch is called main or master.
+
+Merge: Combining changes from one branch into another, usually bringing new features or fixes into the main branch.
+
+Pull Request (PR): A request to merge changes from your branch into another branch. Other people can review your changes before approving.
+
+Issue: A way to track tasks, bugs, or feature requests in a repository. It helps organize work and collaborate with others.
